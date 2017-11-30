@@ -7,8 +7,8 @@ $primary: $main-color;
 $link:$main-color;
 @import "../node_modules/bulma/bulma";
 
-.main-content , footer {
-    margin-top: 1em;
+section.main-content , footer {
+    margin-top: 2em;
 }
 
 .experience-section {
