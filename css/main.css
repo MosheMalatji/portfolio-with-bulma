@@ -6474,3 +6474,12 @@ section.main-content, footer {
 
 h2.title {
   color: #01579B; }
+
+div.social-icons span.icon {
+  padding: 1em;
+  margin-right: 0.5em;
+  border-radius: 60px;
+  border: 2px solid #fff; }
+
+i.fa {
+  color: #22019b; }

@@ -1,10 +1,10 @@
 @charset "utf-8";
 
 @import "../node_modules/bulma/sass/utilities/initial-variables";
-$main-color:#03A9F4;
 
-$primary: $main-color;
-$link:$main-color;
+$light-blue:#03A9F4;
+$primary: $light-blue;
+$link:$light-blue;
 @import "../node_modules/bulma/bulma";
 
 section.main-content , footer {
@@ -17,4 +17,15 @@ section.main-content , footer {
 
 h2.title{
     color: #01579B;
+}
+
+div.social-icons span.icon {
+    padding:1em;
+    margin-right: 0.5em;
+    border-radius: 60px; 
+    border: 2px solid #fff;
+}
+
+i.fa {
+    color:#22019b;
 }
