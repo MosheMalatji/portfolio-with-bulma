@@ -1,1 +1,1 @@
-Start package for [Bulma](http://bulma.io)
+Portfolio made with bulma
